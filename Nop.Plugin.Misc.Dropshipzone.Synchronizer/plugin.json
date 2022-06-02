@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Dropshipzone",
+  "SystemName": "Dropshipzone.Synchronizer",
+  "Version": "1.00",
+  "SupportedVersions": ["4.40"],
+  "Author": "Nishant",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.Dropshipzone.Synchronizer.dll",
+  "Description": "Plugin to synchronize products with dropshipzone api"
+}
